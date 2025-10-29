@@ -1,0 +1,1 @@
+import{_ as t,x as l,y as o,S as s}from"#entry";const c={},r={class:"flex flex-col items-center w-full overflow-x-hidden h-full"};function n(e,f){return o(),l("div",r,[s(e.$slots,"default")])}const _=t(c,[["render",n]]);export{_ as default};
